@@ -1,0 +1,63 @@
+{
+    // Utilisez IntelliSense pour en savoir plus sur les attributs possibles.
+    // Pointez pour afficher la description des attributs existants.
+    // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch bibliotheque",
+            "request": "launch",
+            "mainClass": "TD2.bibliotheque",
+            "projectName": "Objet_2648df7d"
+        },
+        {
+            "type": "java",
+            "name": "Launch testEntier",
+            "request": "launch",
+            "mainClass": "TD2.testEntier",
+            "projectName": "Objet_2648df7d"
+        },
+        {
+            "type": "java",
+            "name": "Launch testpile",
+            "request": "launch",
+            "mainClass": "TD2.testpile",
+            "projectName": "Objet_2648df7d"
+        },
+        {
+            "type": "java",
+            "name": "Launch testpoint",
+            "request": "launch",
+            "mainClass": "TD2.testpoint",
+            "projectName": "Objet_2648df7d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Personne2test",
+            "request": "launch",
+            "mainClass": "package1.Personne2test",
+            "projectName": "Objet_2648df7d"
+        },
+        {
+            "type": "java",
+            "name": "Launch testcarre",
+            "request": "launch",
+            "mainClass": "testcarre",
+            "projectName": "Objet_2648df7d"
+        },
+        {
+            "type": "java",
+            "name": "Launch testetudiant",
+            "request": "launch",
+            "mainClass": "testetudiant",
+            "projectName": "Objet_2648df7d"
+        }
+    ]
+}
